@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a41ff3ed-9a31-42e9-8913-984fb11d0cae/deploy-status)](https://app.netlify.com/sites/trusting-dijkstra-9dae8d/deploys)
+
 
 # Getting Started with Create React App
 
